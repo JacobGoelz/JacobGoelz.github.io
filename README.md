@@ -1,2 +1,2 @@
-Link to Github Pages
+Link to Github Pages:
 https://jacobgoelz.github.io/
